@@ -1,5 +1,4 @@
-HKAselenium_Dropdown_Handling
-
+# HKAselenium_Dropdown_Handling
 A. Project Description
 
     This project demonstrates how to automate dropdown selection using Selenium WebDriver with Java. It is designed to interact with different types of dropdown elements on a web page, ensuring seamless automation of user actions. The script is implemented to run on Google Chrome using ChromeDriver and includes explicit waits for improved stability.
